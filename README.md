@@ -1,2 +1,3 @@
 # ImageEditor.github.io
-Image Editor using Javascript
+Image Editor using Vanilla Javascript
+Used concept of HTML canvas
